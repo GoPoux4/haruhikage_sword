@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/gopoux/Computer_Logic_Labs/haruhikage/top.ncd
+OUTFILE=/home/gopoux/Computer_Logic_Labs/haruhikage/top.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=/home/gopoux/Computer_Logic_Labs/haruhikage
+LICENSE=WebPack
+USER_INFO=__0_0_0

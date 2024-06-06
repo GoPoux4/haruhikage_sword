@@ -1,0 +1,17 @@
+# Output products list for <haruhikage>
+_xmsgs/pn_parser.xmsgs
+haruhikage/blk_mem_gen_v7_3_readme.txt
+haruhikage/doc/blk_mem_gen_v7_3_vinfo.html
+haruhikage/doc/pg058-blk-mem-gen.pdf
+haruhikage.asy
+haruhikage.gise
+haruhikage.mif
+haruhikage.ngc
+haruhikage.sym
+haruhikage.v
+haruhikage.veo
+haruhikage.xco
+haruhikage.xise
+haruhikage_flist.txt
+haruhikage_xmdf.tcl
+summary.log

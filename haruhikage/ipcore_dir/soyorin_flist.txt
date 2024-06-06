@@ -1,0 +1,17 @@
+# Output products list for <soyorin>
+_xmsgs/pn_parser.xmsgs
+soyorin/blk_mem_gen_v7_3_readme.txt
+soyorin/doc/blk_mem_gen_v7_3_vinfo.html
+soyorin/doc/pg058-blk-mem-gen.pdf
+soyorin.asy
+soyorin.gise
+soyorin.mif
+soyorin.ngc
+soyorin.sym
+soyorin.v
+soyorin.veo
+soyorin.xco
+soyorin.xise
+soyorin_flist.txt
+soyorin_xmdf.tcl
+summary.log
